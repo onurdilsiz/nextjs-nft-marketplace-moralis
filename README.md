@@ -7,10 +7,10 @@
     2. Withdraw proceeds
 
 
-Moralis: How d we tell it to listen to our events?
+Moralis: How did we tell it to listen to our events?
 
 1. Connect it to our blockchain
-2. which contract, which events, and what to do when it hears those events?
+2. Which contract, which events, and what to do when it hears those events?
 
 
 
